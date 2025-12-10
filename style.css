@@ -1,0 +1,52 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+    color: darkblue;
+    
+}
+h1{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color: crimson;
+
+}
+p{
+    font-size: medium;
+    line-height: normal;
+}
+ul,ol{
+    margin-left: auto;
+}
+a{
+    color: #000;
+    text-decoration: wavy;
+    font-style: italic;
+    
+}
+a :hover{
+    color: chocolate;
+}
+img{
+    display: block;
+    margin: 10px;
+    border: 2px;
+    border-radius: 10px;
+}
+audio,video{
+    display: block;
+    margin-top: 10px;
+    border: 1px;
+     border-radius:5px ;
+
+}
+button{
+    background-color: #000;
+    border: lightsalmon;
+    font-size: medium;
+}
+button :hover{
+   background-color: brown;
+}
