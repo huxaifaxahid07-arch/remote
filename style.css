@@ -1,52 +1,65 @@
-body{
+body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: bisque;
     color: darkblue;
-    
+
 }
-h1{
+
+h1 {
     color: black;
     text-align: center;
     text-decoration: underline;
 }
-h2{
+
+h2 {
     color: crimson;
+    font-family: 'Courier New', Courier, monospace;
 
 }
-p{
+
+p {
     font-size: medium;
     line-height: normal;
 }
-ul,ol{
+
+ul,
+ol {
     margin-left: auto;
 }
-a{
+
+a {
     color: #000;
     text-decoration: wavy;
     font-style: italic;
-    
+
 }
-a :hover{
+
+a :hover {
     color: chocolate;
 }
-img{
+
+img {
     display: block;
     margin: 10px;
     border: 2px;
     border-radius: 10px;
 }
-audio,video{
+
+audio,
+video {
     display: block;
     margin-top: 10px;
     border: 1px;
-     border-radius:5px ;
+    border-radius: 5px;
 
 }
-button{
+
+button {
     background-color: #000;
     border: lightsalmon;
     font-size: medium;
 }
-button :hover{
-   background-color: brown;
+
+button :hover {
+    background-color: brown;
 }
